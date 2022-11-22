@@ -1,0 +1,13 @@
+- Leitura dos dados
+- Preprocessamento
+	- Criacao Dataframe simplificado
+		- Merge dos dados
+		- Remover, adicionar e modificar colunas
+	- Features com strings para inteiros
+- Modelagem (Utilizando dataframe simplificado)
+	- 10-Fold teste com parametro padroes
+	- Otimizacao dos hiper-parametros
+	- 10-Fold testes com hiper-parametros otimizados
+	- Utilizacao de dados de teste
+		- Mostrar resultados em strings
+		- Heat map para mostrar resultados
